@@ -1,6 +1,6 @@
 # Банковское приложение
 
-## UML диаграмма класса Account
+### UML диаграмма класса Account
 ```mermaid
 classDiagram
     class Account {
